@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall -std=c++17 -pthread  -rdynamic CMakeFiles/delete.dir/delete.cpp.o  -o bin/delete 

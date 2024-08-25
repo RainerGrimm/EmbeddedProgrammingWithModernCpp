@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall -std=c++17 -pthread  -rdynamic CMakeFiles/referenceWrapperClass.dir/referenceWrapperClass.cpp.o  -o bin/referenceWrapperClass 

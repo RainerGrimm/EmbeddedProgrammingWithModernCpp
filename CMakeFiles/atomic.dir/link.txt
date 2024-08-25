@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall -std=c++17 -pthread  -rdynamic CMakeFiles/atomic.dir/atomic.cpp.o  -o bin/atomic 

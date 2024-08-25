@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall -std=c++17 -pthread  -rdynamic CMakeFiles/templateDefaultArgument.dir/templateDefaultArgument.cpp.o  -o bin/templateDefaultArgument 

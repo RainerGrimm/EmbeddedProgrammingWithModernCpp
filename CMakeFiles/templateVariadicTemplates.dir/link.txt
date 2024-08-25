@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall -std=c++17 -pthread  -rdynamic CMakeFiles/templateVariadicTemplates.dir/templateVariadicTemplates.cpp.o  -o bin/templateVariadicTemplates 

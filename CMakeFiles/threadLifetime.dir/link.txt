@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall -std=c++17 -pthread  -rdynamic CMakeFiles/threadLifetime.dir/threadLifetime.cpp.o  -o bin/threadLifetime 

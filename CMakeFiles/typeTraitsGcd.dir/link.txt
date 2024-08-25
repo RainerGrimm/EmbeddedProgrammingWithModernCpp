@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall -std=c++17 -pthread  -rdynamic CMakeFiles/typeTraitsGcd.dir/typeTraitsGcd.cpp.o  -o bin/typeTraitsGcd 

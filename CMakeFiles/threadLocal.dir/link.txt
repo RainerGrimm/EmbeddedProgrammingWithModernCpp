@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall -std=c++17 -pthread  -rdynamic CMakeFiles/threadLocal.dir/threadLocal.cpp.o  -o bin/threadLocal 

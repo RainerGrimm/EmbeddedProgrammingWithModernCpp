@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall -std=c++17 -pthread  -rdynamic CMakeFiles/overloadNewAndDelete.dir/overloadNewAndDelete.cpp.o  -o bin/overloadNewAndDelete 

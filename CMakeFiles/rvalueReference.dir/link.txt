@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall -std=c++17 -pthread  -rdynamic CMakeFiles/rvalueReference.dir/rvalueReference.cpp.o  -o bin/rvalueReference 
